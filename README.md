@@ -1,9 +1,10 @@
 # FABRICA SYMFONY COM UBUNTU + APACHE + PHP
 ## UBUNTU - IMAGEM OFICIAL 
-    - ubuntu 20.04
-    - php 8.1
-    - apache 2.4
-    - symfony cli
+    - Ubuntu 20.04
+    - Php 8.1
+    - Apache 2.4
+    - Symfony 6.0.8 | Symfony cli 5.4.8
+
 ### PASSO 1
     - executar o comando:
     ```bash
