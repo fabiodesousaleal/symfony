@@ -7,7 +7,7 @@
 ### DETALHES
     * Para executar uma instrucao symfony na maquina host, após executar o "docker-compose up" voce poderar usar, como exemplo para iniciar um skeleton de um projeto web completo:
     ````bash
-    docker exec -it symfony symfony app_nome --webapp
+    docker exec -it symfony symfonyn new app_nome --webapp
     ````
     ou qualquer outro parametro.
     * Podera trabalhar dentro da "Fabrica" que no caso é rodando o comando dentro do bash do container a exemplo:
